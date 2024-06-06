@@ -8,18 +8,18 @@ We'll use data from historical Olympic games. We'll try to predict how many meda
 
 # Making the data ready to Apply ML Model
 
-1)Form a hypothesis.
-2)Find and explore the data.
-3)(If necessary) Reshape the data to predict your target.
-4)Clean the data for ML.
-5)Pick an error metric.
-6)Split your data.
-7)Train a model.
+[^1]Form a hypothesis.
+[^2]Find and explore the data.
+[^3](If necessary) Reshape the data to predict your target.
+[^4]Clean the data for ML.
+[^5]Pick an error metric.
+[^6]Split your data.
+[^7]Train a model.
 
 
-STEP 1: Loading the data
-STEP 2: Data exploration
-STEP 3: Building our model
-STEP 4: Measuring error
+-STEP 1: Loading the data
+-STEP 2: Data exploration
+-STEP 3: Building our model
+-STEP 4: Measuring error
 
 

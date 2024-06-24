@@ -16,7 +16,7 @@ We'll use data from historical Olympic games. We'll try to predict how many meda
 6. Split your data.
 7. Train a model.
 
-
+## Steps Followed
 1. STEP 1: Loading the data
 2. STEP 2: Data exploration
 3. STEP 3: Building our model

@@ -17,9 +17,9 @@ We'll use data from historical Olympic games. We'll try to predict how many meda
 7. Train a model.
 
 
--STEP 1: Loading the data
--STEP 2: Data exploration
--STEP 3: Building our model
--STEP 4: Measuring error
+1. STEP 1: Loading the data
+2. STEP 2: Data exploration
+3. STEP 3: Building our model
+4. STEP 4: Measuring error
 
 
